@@ -22,4 +22,3 @@ let make = () => {
     </header>
   </div>;
 };
-

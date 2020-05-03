@@ -4,7 +4,6 @@ This is a ReasonML + ReasonReact template for [Create React App](https://github.
 
 To use this template, add `--template @fa7ad/reason` when creating a new app.
 
-
 For example:
 
 ```sh
@@ -12,7 +11,6 @@ npx create-react-app my-app --template @fa7ad/reason
 # or
 yarn create react-app my-app --template @fa7ad/reason
 ```
-
 
 For more information, please refer to:
 

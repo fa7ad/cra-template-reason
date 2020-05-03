@@ -1,7 +1,7 @@
 [%bs.raw {|require("./index.css")|}];
 
 module ServiceWorker {
-	[@bs.module "./serviceWorker"]
+  [@bs.module "./serviceWorker"]
   external unregister : (unit => unit) = "unregister";
   [@bs.module "./serviceWorker"]
   external register : (unit => unit) = "register";
