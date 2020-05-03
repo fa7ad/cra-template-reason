@@ -1,0 +1,29 @@
+{
+  "name": "@fa7ad/cra-template-reason",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "reasonml",
+    "bs-platform",
+    "reason-react"
+  ],
+  "description": "A ReasonML template for Create React App.",
+  "main": "template.json",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fa7ad/cra-template-reason.git"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": ">=8"
+  },
+  "bugs": {
+    "url": "https://github.com/fa7ad/cra-template-reason/issues"
+  },
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
